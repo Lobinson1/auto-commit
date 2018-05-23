@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://45.76.179.173:3306/cjx?useSSL=false
+    username: lobinson
+    password: 123456
+
+server:
+  port: 8081
+
+
