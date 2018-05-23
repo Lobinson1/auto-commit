@@ -32,4 +32,5 @@ dependencies {
 	testCompile('org.springframework.boot:spring-boot-starter-test')
     compile group: 'com.alibaba', name: 'druid', version: '1.1.9'
     compile group: 'com.alibaba', name: 'fastjson', version: '1.2.47'
+    compile group: 'com.sun.mail', name: 'javax.mail', version: '1.6.1'
 }
